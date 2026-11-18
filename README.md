@@ -106,3 +106,18 @@ MIT，见LICENSE。
 新增代码按实体、输入约束、路由、许可/废水/结算职责及3个页面组织。历史v1与expansion证据保留，第三轮证据在test-artifacts/gb-1024/v3/。作业许可按日容量预留，不模拟逐分钟班次；本地废水联单不接环保系统，合同凭据不触发收付款。
 
 V3 已知范围补充：每任务一张作业许可；撤销为终止办理，需重新创建任务，当前不支持同任务重办许可。草稿许可可在签发前修订；撤销会释放班组容量。
+
+## 第四轮扩展：废水水质放行
+
+保留原9页，新增“废水水质放行”1页，共10个业务页面。回收率达标只说明水量回收合格，不说明水质合格；原去向交接现在先辨水质。
+
+- **采样登记**：对已核验废水登记酸碱度 pH、电导率 μS/cm 与浊度 NTU 三项，绑定 `wastewater_id`（唯一）。三项齐全后立即入队推断，返回前为待判。
+- **风险分类器**：`backend/fixtures/water_quality_reference.json` 为固定 seed42 的 400 条实验室标签样本（污染145条）；特征 pH、电导率、浊度，标签 `lab_contaminated`。RandomForestClassifier 100树、max_depth8、min_samples_leaf2、class_weight balanced、random_state42；75/25分层留出。返回概率后按 `<0.35` 低风险、`≥0.60` 高风险、其间证据不足。独立留出漏判率、误拦率、准确率、混淆矩阵与特征重要性写入 `model_evidence` 并随页面展示；训练误差不作为泛化指标。
+- **放行门槛**：仅低风险可沿原去向交接；高风险或证据不足须主管填写至少5字专门处置依据（绑定版本）后放行；未采样、推断未完成或推断中断均拦截交接。证据 SHA256 与训练/留出口径随每次预测保存。
+- **更正与并发**：交接前可更正 pH/电导/浊度，受理即 `version+1`，同步撤回旧放行资格并作废旧版本推断。更正与交接都对废水行、采样品行加锁（同序避免死锁），以先受理者为准；已交接则采样品 `handed_over_at` 置位且 `release_snapshot` 冻结采样、预测、批准与放行决定，后续更正/重试/再交接一律拒绝。
+- **推断中断与重试**：worker 启动时把遗留 `evaluating` 采样重新入队；失败置 `failed`，可在待判列表重试同一版本，重试不加锁新版本、不新增或续期批准。旧版本推断晚到时因版本或 `evaluating` 状态不符被丢弃，不会复活已撤回的放行。
+- **页面**：待判（推断中/可重试）、待处置（高风险或证据不足，主管填依据）、可交接（低风险或已批准，勾选接收人与凭证）分栏办理，并单列已交接冻结记录，均显示放行原因。废水去向交接页同步显示每条废水的水质版本与放行状态。
+
+接口：`POST /wastewater/{id}/quality`（登记并送判）、`PUT /water-quality/{id}`（更正）、`POST /water-quality/{id}/retry`（重试）、`POST /water-quality/{id}/approve`（主管处置依据）、`GET /water-quality`、`GET /water-quality/{id}`、`GET /water-quality/evidence`；交接仍走 `POST /wastewater/{id}/handover`，现增加水质门槛。新增实体 WaterQualitySample（wastewater 唯一），无旧表字段变更；worker 消费 `solar:quality` 队列并把证据写入 `/artifacts/water-quality-{id}-v{version}.json`。计划员/主管可采样、更正、重试；仅主管批准放行；观察员只读。
+
+V4 已知范围：分类器为本地模拟实验室样本，不接真实化验系统；阈值固定不随数据漂移；每张废水单一份采样，更正为覆盖式版本递增而非保留多份并列采样。

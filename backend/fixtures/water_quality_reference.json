@@ -1,0 +1,2402 @@
+[
+  {
+    "ph": 8.05,
+    "conductivity_us_cm": 511.7,
+    "turbidity_ntu": 26.0,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 8.36,
+    "conductivity_us_cm": 544.4,
+    "turbidity_ntu": 21.0,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 8.01,
+    "conductivity_us_cm": 512.5,
+    "turbidity_ntu": 21.3,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.04,
+    "conductivity_us_cm": 727.7,
+    "turbidity_ntu": 29.7,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 5.74,
+    "conductivity_us_cm": 660.6,
+    "turbidity_ntu": 140.5,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.78,
+    "conductivity_us_cm": 448.7,
+    "turbidity_ntu": 28.4,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.66,
+    "conductivity_us_cm": 551.8,
+    "turbidity_ntu": 44.1,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 8.17,
+    "conductivity_us_cm": 584.3,
+    "turbidity_ntu": 12.7,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 8.12,
+    "conductivity_us_cm": 469.1,
+    "turbidity_ntu": 11.4,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.52,
+    "conductivity_us_cm": 635.4,
+    "turbidity_ntu": 15.6,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 8.01,
+    "conductivity_us_cm": 523.9,
+    "turbidity_ntu": 22.4,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.39,
+    "conductivity_us_cm": 1303.7,
+    "turbidity_ntu": 67.6,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.51,
+    "conductivity_us_cm": 611.9,
+    "turbidity_ntu": 25.3,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 8.04,
+    "conductivity_us_cm": 385.4,
+    "turbidity_ntu": 15.0,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 6.98,
+    "conductivity_us_cm": 773.8,
+    "turbidity_ntu": 15.5,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 8.54,
+    "conductivity_us_cm": 321.5,
+    "turbidity_ntu": 18.9,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.79,
+    "conductivity_us_cm": 398.0,
+    "turbidity_ntu": 32.8,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.2,
+    "conductivity_us_cm": 1266.4,
+    "turbidity_ntu": 186.2,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.53,
+    "conductivity_us_cm": 736.8,
+    "turbidity_ntu": 11.6,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 8.26,
+    "conductivity_us_cm": 482.5,
+    "turbidity_ntu": 31.5,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.71,
+    "conductivity_us_cm": 732.4,
+    "turbidity_ntu": 32.2,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 6.54,
+    "conductivity_us_cm": 1638.1,
+    "turbidity_ntu": 51.4,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.44,
+    "conductivity_us_cm": 1052.6,
+    "turbidity_ntu": 26.3,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.27,
+    "conductivity_us_cm": 646.1,
+    "turbidity_ntu": 27.2,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 6.76,
+    "conductivity_us_cm": 426.1,
+    "turbidity_ntu": 24.3,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.71,
+    "conductivity_us_cm": 422.0,
+    "turbidity_ntu": 14.9,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 6.79,
+    "conductivity_us_cm": 847.1,
+    "turbidity_ntu": 29.8,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.92,
+    "conductivity_us_cm": 582.2,
+    "turbidity_ntu": 18.7,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 8.11,
+    "conductivity_us_cm": 895.1,
+    "turbidity_ntu": 29.4,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.52,
+    "conductivity_us_cm": 431.0,
+    "turbidity_ntu": 20.2,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.11,
+    "conductivity_us_cm": 433.7,
+    "turbidity_ntu": 23.0,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.04,
+    "conductivity_us_cm": 2589.0,
+    "turbidity_ntu": 60.6,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.91,
+    "conductivity_us_cm": 393.8,
+    "turbidity_ntu": 50.2,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 8.03,
+    "conductivity_us_cm": 663.3,
+    "turbidity_ntu": 29.6,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.15,
+    "conductivity_us_cm": 485.9,
+    "turbidity_ntu": 80.0,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 8.06,
+    "conductivity_us_cm": 465.2,
+    "turbidity_ntu": 52.4,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.86,
+    "conductivity_us_cm": 708.2,
+    "turbidity_ntu": 22.6,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 6.48,
+    "conductivity_us_cm": 1822.9,
+    "turbidity_ntu": 50.7,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.56,
+    "conductivity_us_cm": 484.5,
+    "turbidity_ntu": 24.7,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 8.09,
+    "conductivity_us_cm": 505.9,
+    "turbidity_ntu": 30.9,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 6.63,
+    "conductivity_us_cm": 794.6,
+    "turbidity_ntu": 128.1,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 6.11,
+    "conductivity_us_cm": 1040.1,
+    "turbidity_ntu": 117.4,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 8.39,
+    "conductivity_us_cm": 2052.0,
+    "turbidity_ntu": 29.6,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.56,
+    "conductivity_us_cm": 527.9,
+    "turbidity_ntu": 18.3,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 6.24,
+    "conductivity_us_cm": 1194.0,
+    "turbidity_ntu": 21.8,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.88,
+    "conductivity_us_cm": 564.5,
+    "turbidity_ntu": 22.9,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.35,
+    "conductivity_us_cm": 816.7,
+    "turbidity_ntu": 23.4,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 8.0,
+    "conductivity_us_cm": 397.9,
+    "turbidity_ntu": 27.2,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.86,
+    "conductivity_us_cm": 803.7,
+    "turbidity_ntu": 81.3,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 6.23,
+    "conductivity_us_cm": 2205.4,
+    "turbidity_ntu": 51.7,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 8.41,
+    "conductivity_us_cm": 379.9,
+    "turbidity_ntu": 29.4,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.9,
+    "conductivity_us_cm": 881.2,
+    "turbidity_ntu": 58.1,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 8.05,
+    "conductivity_us_cm": 482.2,
+    "turbidity_ntu": 25.6,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.34,
+    "conductivity_us_cm": 1273.4,
+    "turbidity_ntu": 16.5,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.71,
+    "conductivity_us_cm": 415.5,
+    "turbidity_ntu": 17.2,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 8.71,
+    "conductivity_us_cm": 304.7,
+    "turbidity_ntu": 19.6,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 6.18,
+    "conductivity_us_cm": 772.4,
+    "turbidity_ntu": 63.0,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.57,
+    "conductivity_us_cm": 583.2,
+    "turbidity_ntu": 26.4,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.62,
+    "conductivity_us_cm": 405.1,
+    "turbidity_ntu": 43.1,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 8.27,
+    "conductivity_us_cm": 611.7,
+    "turbidity_ntu": 33.9,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.35,
+    "conductivity_us_cm": 410.3,
+    "turbidity_ntu": 29.9,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.65,
+    "conductivity_us_cm": 503.4,
+    "turbidity_ntu": 34.8,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.65,
+    "conductivity_us_cm": 631.9,
+    "turbidity_ntu": 23.4,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.6,
+    "conductivity_us_cm": 1338.2,
+    "turbidity_ntu": 23.0,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.2,
+    "conductivity_us_cm": 1367.8,
+    "turbidity_ntu": 146.4,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.43,
+    "conductivity_us_cm": 437.0,
+    "turbidity_ntu": 27.7,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.6,
+    "conductivity_us_cm": 331.9,
+    "turbidity_ntu": 41.7,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 6.95,
+    "conductivity_us_cm": 1147.1,
+    "turbidity_ntu": 34.0,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.94,
+    "conductivity_us_cm": 463.9,
+    "turbidity_ntu": 26.9,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.87,
+    "conductivity_us_cm": 465.3,
+    "turbidity_ntu": 40.0,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.9,
+    "conductivity_us_cm": 740.7,
+    "turbidity_ntu": 22.4,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 8.19,
+    "conductivity_us_cm": 531.1,
+    "turbidity_ntu": 20.2,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.74,
+    "conductivity_us_cm": 505.2,
+    "turbidity_ntu": 25.2,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 5.85,
+    "conductivity_us_cm": 963.6,
+    "turbidity_ntu": 25.9,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.9,
+    "conductivity_us_cm": 496.3,
+    "turbidity_ntu": 44.4,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.2,
+    "conductivity_us_cm": 602.4,
+    "turbidity_ntu": 14.8,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.56,
+    "conductivity_us_cm": 1285.4,
+    "turbidity_ntu": 114.4,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.35,
+    "conductivity_us_cm": 581.6,
+    "turbidity_ntu": 19.8,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 8.23,
+    "conductivity_us_cm": 1540.7,
+    "turbidity_ntu": 79.0,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.49,
+    "conductivity_us_cm": 728.0,
+    "turbidity_ntu": 50.0,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 8.44,
+    "conductivity_us_cm": 454.2,
+    "turbidity_ntu": 24.9,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.69,
+    "conductivity_us_cm": 349.9,
+    "turbidity_ntu": 52.1,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 8.21,
+    "conductivity_us_cm": 326.1,
+    "turbidity_ntu": 21.7,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 8.54,
+    "conductivity_us_cm": 1766.7,
+    "turbidity_ntu": 23.7,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.43,
+    "conductivity_us_cm": 647.9,
+    "turbidity_ntu": 37.2,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 8.47,
+    "conductivity_us_cm": 1302.6,
+    "turbidity_ntu": 54.8,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 8.51,
+    "conductivity_us_cm": 434.7,
+    "turbidity_ntu": 45.0,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 8.29,
+    "conductivity_us_cm": 712.9,
+    "turbidity_ntu": 22.0,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 8.5,
+    "conductivity_us_cm": 835.2,
+    "turbidity_ntu": 36.4,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 9.01,
+    "conductivity_us_cm": 1405.9,
+    "turbidity_ntu": 75.2,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.55,
+    "conductivity_us_cm": 718.5,
+    "turbidity_ntu": 15.7,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.72,
+    "conductivity_us_cm": 485.9,
+    "turbidity_ntu": 43.7,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.99,
+    "conductivity_us_cm": 784.1,
+    "turbidity_ntu": 43.7,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.14,
+    "conductivity_us_cm": 457.1,
+    "turbidity_ntu": 26.2,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.59,
+    "conductivity_us_cm": 619.0,
+    "turbidity_ntu": 33.7,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 5.94,
+    "conductivity_us_cm": 848.4,
+    "turbidity_ntu": 87.8,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.69,
+    "conductivity_us_cm": 572.6,
+    "turbidity_ntu": 10.1,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 8.18,
+    "conductivity_us_cm": 692.2,
+    "turbidity_ntu": 17.0,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.03,
+    "conductivity_us_cm": 988.8,
+    "turbidity_ntu": 45.4,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 8.14,
+    "conductivity_us_cm": 407.8,
+    "turbidity_ntu": 16.1,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.85,
+    "conductivity_us_cm": 686.0,
+    "turbidity_ntu": 41.7,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 6.17,
+    "conductivity_us_cm": 1533.8,
+    "turbidity_ntu": 72.7,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.39,
+    "conductivity_us_cm": 793.7,
+    "turbidity_ntu": 23.4,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 5.78,
+    "conductivity_us_cm": 1021.8,
+    "turbidity_ntu": 58.3,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 5.5,
+    "conductivity_us_cm": 1126.9,
+    "turbidity_ntu": 86.5,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.92,
+    "conductivity_us_cm": 577.3,
+    "turbidity_ntu": 41.7,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.77,
+    "conductivity_us_cm": 763.6,
+    "turbidity_ntu": 45.4,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.77,
+    "conductivity_us_cm": 631.1,
+    "turbidity_ntu": 30.3,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 8.04,
+    "conductivity_us_cm": 869.2,
+    "turbidity_ntu": 77.2,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.84,
+    "conductivity_us_cm": 293.1,
+    "turbidity_ntu": 28.3,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 8.26,
+    "conductivity_us_cm": 477.9,
+    "turbidity_ntu": 52.0,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.5,
+    "conductivity_us_cm": 460.2,
+    "turbidity_ntu": 14.7,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 6.98,
+    "conductivity_us_cm": 407.6,
+    "turbidity_ntu": 22.9,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 6.09,
+    "conductivity_us_cm": 1002.6,
+    "turbidity_ntu": 113.7,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.22,
+    "conductivity_us_cm": 465.8,
+    "turbidity_ntu": 22.8,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.39,
+    "conductivity_us_cm": 943.7,
+    "turbidity_ntu": 83.8,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.93,
+    "conductivity_us_cm": 581.9,
+    "turbidity_ntu": 18.8,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 5.8,
+    "conductivity_us_cm": 639.5,
+    "turbidity_ntu": 75.7,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.86,
+    "conductivity_us_cm": 666.3,
+    "turbidity_ntu": 36.2,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.47,
+    "conductivity_us_cm": 676.9,
+    "turbidity_ntu": 13.7,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 8.1,
+    "conductivity_us_cm": 497.9,
+    "turbidity_ntu": 23.7,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.01,
+    "conductivity_us_cm": 319.0,
+    "turbidity_ntu": 32.2,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.54,
+    "conductivity_us_cm": 433.6,
+    "turbidity_ntu": 25.3,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.94,
+    "conductivity_us_cm": 716.1,
+    "turbidity_ntu": 105.7,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.97,
+    "conductivity_us_cm": 658.5,
+    "turbidity_ntu": 34.4,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.9,
+    "conductivity_us_cm": 648.2,
+    "turbidity_ntu": 80.5,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 6.76,
+    "conductivity_us_cm": 831.1,
+    "turbidity_ntu": 43.7,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.78,
+    "conductivity_us_cm": 525.1,
+    "turbidity_ntu": 33.0,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.29,
+    "conductivity_us_cm": 695.7,
+    "turbidity_ntu": 27.1,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 6.49,
+    "conductivity_us_cm": 1667.6,
+    "turbidity_ntu": 56.4,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.43,
+    "conductivity_us_cm": 700.5,
+    "turbidity_ntu": 26.1,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.21,
+    "conductivity_us_cm": 595.9,
+    "turbidity_ntu": 21.5,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.3,
+    "conductivity_us_cm": 1186.1,
+    "turbidity_ntu": 36.8,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 6.09,
+    "conductivity_us_cm": 793.3,
+    "turbidity_ntu": 21.3,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 5.95,
+    "conductivity_us_cm": 642.2,
+    "turbidity_ntu": 111.6,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 8.21,
+    "conductivity_us_cm": 519.7,
+    "turbidity_ntu": 24.7,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 6.11,
+    "conductivity_us_cm": 383.8,
+    "turbidity_ntu": 25.9,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.86,
+    "conductivity_us_cm": 800.2,
+    "turbidity_ntu": 25.3,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.28,
+    "conductivity_us_cm": 441.3,
+    "turbidity_ntu": 41.4,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.64,
+    "conductivity_us_cm": 521.3,
+    "turbidity_ntu": 16.3,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.44,
+    "conductivity_us_cm": 638.3,
+    "turbidity_ntu": 15.3,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 8.37,
+    "conductivity_us_cm": 899.4,
+    "turbidity_ntu": 43.7,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 8.03,
+    "conductivity_us_cm": 325.7,
+    "turbidity_ntu": 12.8,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.99,
+    "conductivity_us_cm": 460.1,
+    "turbidity_ntu": 48.0,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.35,
+    "conductivity_us_cm": 509.4,
+    "turbidity_ntu": 22.5,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.45,
+    "conductivity_us_cm": 524.3,
+    "turbidity_ntu": 20.1,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.77,
+    "conductivity_us_cm": 688.9,
+    "turbidity_ntu": 17.3,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 6.52,
+    "conductivity_us_cm": 1161.8,
+    "turbidity_ntu": 39.2,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.28,
+    "conductivity_us_cm": 688.2,
+    "turbidity_ntu": 97.0,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 6.15,
+    "conductivity_us_cm": 2750.2,
+    "turbidity_ntu": 56.6,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 6.87,
+    "conductivity_us_cm": 615.3,
+    "turbidity_ntu": 54.2,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.17,
+    "conductivity_us_cm": 289.6,
+    "turbidity_ntu": 24.3,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.28,
+    "conductivity_us_cm": 1870.9,
+    "turbidity_ntu": 40.4,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 8.22,
+    "conductivity_us_cm": 361.4,
+    "turbidity_ntu": 21.5,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.46,
+    "conductivity_us_cm": 741.3,
+    "turbidity_ntu": 22.4,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.69,
+    "conductivity_us_cm": 1069.4,
+    "turbidity_ntu": 67.3,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.77,
+    "conductivity_us_cm": 406.9,
+    "turbidity_ntu": 25.7,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 8.18,
+    "conductivity_us_cm": 707.6,
+    "turbidity_ntu": 21.7,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.5,
+    "conductivity_us_cm": 1167.9,
+    "turbidity_ntu": 54.5,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.58,
+    "conductivity_us_cm": 714.4,
+    "turbidity_ntu": 47.3,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.2,
+    "conductivity_us_cm": 423.0,
+    "turbidity_ntu": 41.1,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 8.3,
+    "conductivity_us_cm": 647.5,
+    "turbidity_ntu": 16.0,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.52,
+    "conductivity_us_cm": 528.5,
+    "turbidity_ntu": 57.6,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 8.04,
+    "conductivity_us_cm": 562.8,
+    "turbidity_ntu": 16.2,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 6.86,
+    "conductivity_us_cm": 896.7,
+    "turbidity_ntu": 78.9,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.93,
+    "conductivity_us_cm": 1225.1,
+    "turbidity_ntu": 51.4,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.22,
+    "conductivity_us_cm": 354.7,
+    "turbidity_ntu": 25.1,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 8.21,
+    "conductivity_us_cm": 282.3,
+    "turbidity_ntu": 30.9,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.57,
+    "conductivity_us_cm": 729.9,
+    "turbidity_ntu": 14.1,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.35,
+    "conductivity_us_cm": 520.2,
+    "turbidity_ntu": 30.4,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.88,
+    "conductivity_us_cm": 575.2,
+    "turbidity_ntu": 24.0,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.76,
+    "conductivity_us_cm": 400.6,
+    "turbidity_ntu": 19.4,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 6.7,
+    "conductivity_us_cm": 528.1,
+    "turbidity_ntu": 23.2,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.92,
+    "conductivity_us_cm": 544.0,
+    "turbidity_ntu": 13.5,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 8.12,
+    "conductivity_us_cm": 433.6,
+    "turbidity_ntu": 13.4,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.6,
+    "conductivity_us_cm": 519.8,
+    "turbidity_ntu": 20.4,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 6.55,
+    "conductivity_us_cm": 1906.5,
+    "turbidity_ntu": 34.4,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 6.75,
+    "conductivity_us_cm": 776.8,
+    "turbidity_ntu": 23.6,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.31,
+    "conductivity_us_cm": 492.2,
+    "turbidity_ntu": 25.8,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.8,
+    "conductivity_us_cm": 445.9,
+    "turbidity_ntu": 30.7,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 8.62,
+    "conductivity_us_cm": 821.1,
+    "turbidity_ntu": 15.6,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.33,
+    "conductivity_us_cm": 440.7,
+    "turbidity_ntu": 17.6,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.09,
+    "conductivity_us_cm": 618.2,
+    "turbidity_ntu": 25.5,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 5.51,
+    "conductivity_us_cm": 594.4,
+    "turbidity_ntu": 34.9,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 8.05,
+    "conductivity_us_cm": 572.8,
+    "turbidity_ntu": 17.3,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 8.24,
+    "conductivity_us_cm": 394.7,
+    "turbidity_ntu": 40.0,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 8.52,
+    "conductivity_us_cm": 765.2,
+    "turbidity_ntu": 29.2,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 6.76,
+    "conductivity_us_cm": 605.1,
+    "turbidity_ntu": 191.7,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 6.62,
+    "conductivity_us_cm": 454.0,
+    "turbidity_ntu": 17.7,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.35,
+    "conductivity_us_cm": 549.3,
+    "turbidity_ntu": 33.1,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.3,
+    "conductivity_us_cm": 344.0,
+    "turbidity_ntu": 27.0,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 8.21,
+    "conductivity_us_cm": 320.6,
+    "turbidity_ntu": 29.5,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 8.2,
+    "conductivity_us_cm": 900.9,
+    "turbidity_ntu": 53.1,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.97,
+    "conductivity_us_cm": 434.6,
+    "turbidity_ntu": 22.0,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 8.11,
+    "conductivity_us_cm": 414.2,
+    "turbidity_ntu": 40.8,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 8.23,
+    "conductivity_us_cm": 457.4,
+    "turbidity_ntu": 14.6,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 8.26,
+    "conductivity_us_cm": 360.0,
+    "turbidity_ntu": 53.4,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 8.23,
+    "conductivity_us_cm": 675.3,
+    "turbidity_ntu": 18.6,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.95,
+    "conductivity_us_cm": 410.8,
+    "turbidity_ntu": 25.9,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.37,
+    "conductivity_us_cm": 282.8,
+    "turbidity_ntu": 22.5,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 6.71,
+    "conductivity_us_cm": 1690.4,
+    "turbidity_ntu": 98.3,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.04,
+    "conductivity_us_cm": 681.9,
+    "turbidity_ntu": 46.0,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.35,
+    "conductivity_us_cm": 450.7,
+    "turbidity_ntu": 20.8,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.97,
+    "conductivity_us_cm": 404.7,
+    "turbidity_ntu": 20.5,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 8.35,
+    "conductivity_us_cm": 563.6,
+    "turbidity_ntu": 19.1,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.08,
+    "conductivity_us_cm": 369.8,
+    "turbidity_ntu": 12.4,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.65,
+    "conductivity_us_cm": 493.9,
+    "turbidity_ntu": 13.7,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.74,
+    "conductivity_us_cm": 618.6,
+    "turbidity_ntu": 17.2,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.16,
+    "conductivity_us_cm": 560.3,
+    "turbidity_ntu": 14.3,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.71,
+    "conductivity_us_cm": 334.4,
+    "turbidity_ntu": 68.5,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 6.62,
+    "conductivity_us_cm": 561.5,
+    "turbidity_ntu": 98.7,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.15,
+    "conductivity_us_cm": 407.1,
+    "turbidity_ntu": 29.6,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.8,
+    "conductivity_us_cm": 268.4,
+    "turbidity_ntu": 27.0,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.78,
+    "conductivity_us_cm": 1225.0,
+    "turbidity_ntu": 12.1,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.59,
+    "conductivity_us_cm": 520.6,
+    "turbidity_ntu": 13.6,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.18,
+    "conductivity_us_cm": 394.0,
+    "turbidity_ntu": 10.4,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.25,
+    "conductivity_us_cm": 709.5,
+    "turbidity_ntu": 41.8,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.9,
+    "conductivity_us_cm": 302.8,
+    "turbidity_ntu": 17.5,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 8.56,
+    "conductivity_us_cm": 1487.0,
+    "turbidity_ntu": 38.5,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.56,
+    "conductivity_us_cm": 606.4,
+    "turbidity_ntu": 33.1,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.05,
+    "conductivity_us_cm": 1051.2,
+    "turbidity_ntu": 77.3,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 6.98,
+    "conductivity_us_cm": 588.2,
+    "turbidity_ntu": 33.5,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 6.02,
+    "conductivity_us_cm": 725.3,
+    "turbidity_ntu": 35.8,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.88,
+    "conductivity_us_cm": 540.6,
+    "turbidity_ntu": 33.9,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.79,
+    "conductivity_us_cm": 727.4,
+    "turbidity_ntu": 7.6,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 5.84,
+    "conductivity_us_cm": 1825.4,
+    "turbidity_ntu": 46.5,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 5.87,
+    "conductivity_us_cm": 767.2,
+    "turbidity_ntu": 51.6,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.63,
+    "conductivity_us_cm": 257.4,
+    "turbidity_ntu": 23.8,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.4,
+    "conductivity_us_cm": 574.1,
+    "turbidity_ntu": 32.5,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 8.18,
+    "conductivity_us_cm": 399.4,
+    "turbidity_ntu": 13.1,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 8.03,
+    "conductivity_us_cm": 344.2,
+    "turbidity_ntu": 37.5,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 6.35,
+    "conductivity_us_cm": 592.8,
+    "turbidity_ntu": 67.6,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 8.02,
+    "conductivity_us_cm": 563.8,
+    "turbidity_ntu": 23.2,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 6.52,
+    "conductivity_us_cm": 334.9,
+    "turbidity_ntu": 36.3,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 8.36,
+    "conductivity_us_cm": 367.9,
+    "turbidity_ntu": 22.6,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 8.46,
+    "conductivity_us_cm": 585.7,
+    "turbidity_ntu": 12.5,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 8.68,
+    "conductivity_us_cm": 2025.9,
+    "turbidity_ntu": 128.8,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 8.52,
+    "conductivity_us_cm": 430.4,
+    "turbidity_ntu": 7.7,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.87,
+    "conductivity_us_cm": 376.3,
+    "turbidity_ntu": 23.7,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.69,
+    "conductivity_us_cm": 320.4,
+    "turbidity_ntu": 27.6,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.14,
+    "conductivity_us_cm": 371.4,
+    "turbidity_ntu": 27.9,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 6.9,
+    "conductivity_us_cm": 2348.2,
+    "turbidity_ntu": 62.1,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.98,
+    "conductivity_us_cm": 442.4,
+    "turbidity_ntu": 46.4,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 8.02,
+    "conductivity_us_cm": 446.3,
+    "turbidity_ntu": 34.4,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.73,
+    "conductivity_us_cm": 881.4,
+    "turbidity_ntu": 40.5,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.76,
+    "conductivity_us_cm": 612.2,
+    "turbidity_ntu": 32.5,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.71,
+    "conductivity_us_cm": 238.9,
+    "turbidity_ntu": 13.1,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.73,
+    "conductivity_us_cm": 841.3,
+    "turbidity_ntu": 59.0,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 6.97,
+    "conductivity_us_cm": 737.2,
+    "turbidity_ntu": 34.0,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.82,
+    "conductivity_us_cm": 864.2,
+    "turbidity_ntu": 18.3,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 6.63,
+    "conductivity_us_cm": 611.4,
+    "turbidity_ntu": 86.8,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.7,
+    "conductivity_us_cm": 521.4,
+    "turbidity_ntu": 28.2,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.21,
+    "conductivity_us_cm": 557.9,
+    "turbidity_ntu": 16.6,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 6.16,
+    "conductivity_us_cm": 1066.3,
+    "turbidity_ntu": 34.8,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 6.76,
+    "conductivity_us_cm": 932.2,
+    "turbidity_ntu": 53.8,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 6.47,
+    "conductivity_us_cm": 1281.9,
+    "turbidity_ntu": 36.3,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.1,
+    "conductivity_us_cm": 974.1,
+    "turbidity_ntu": 63.0,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 6.68,
+    "conductivity_us_cm": 991.2,
+    "turbidity_ntu": 73.0,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.81,
+    "conductivity_us_cm": 496.9,
+    "turbidity_ntu": 25.1,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 6.44,
+    "conductivity_us_cm": 1056.9,
+    "turbidity_ntu": 61.0,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.13,
+    "conductivity_us_cm": 454.4,
+    "turbidity_ntu": 11.7,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.85,
+    "conductivity_us_cm": 648.7,
+    "turbidity_ntu": 31.5,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 8.39,
+    "conductivity_us_cm": 567.5,
+    "turbidity_ntu": 32.3,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.41,
+    "conductivity_us_cm": 546.5,
+    "turbidity_ntu": 22.6,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.28,
+    "conductivity_us_cm": 642.0,
+    "turbidity_ntu": 9.7,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.16,
+    "conductivity_us_cm": 1640.1,
+    "turbidity_ntu": 74.9,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 6.86,
+    "conductivity_us_cm": 1785.4,
+    "turbidity_ntu": 32.6,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.65,
+    "conductivity_us_cm": 356.4,
+    "turbidity_ntu": 21.5,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 8.23,
+    "conductivity_us_cm": 647.0,
+    "turbidity_ntu": 33.1,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.31,
+    "conductivity_us_cm": 474.4,
+    "turbidity_ntu": 17.7,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.8,
+    "conductivity_us_cm": 645.8,
+    "turbidity_ntu": 15.7,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.3,
+    "conductivity_us_cm": 568.7,
+    "turbidity_ntu": 74.5,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 8.24,
+    "conductivity_us_cm": 859.3,
+    "turbidity_ntu": 46.5,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.71,
+    "conductivity_us_cm": 1746.5,
+    "turbidity_ntu": 86.8,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.28,
+    "conductivity_us_cm": 429.1,
+    "turbidity_ntu": 16.8,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 6.76,
+    "conductivity_us_cm": 680.9,
+    "turbidity_ntu": 99.2,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 8.16,
+    "conductivity_us_cm": 346.1,
+    "turbidity_ntu": 39.7,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 6.82,
+    "conductivity_us_cm": 767.9,
+    "turbidity_ntu": 43.4,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.78,
+    "conductivity_us_cm": 567.8,
+    "turbidity_ntu": 29.0,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.45,
+    "conductivity_us_cm": 303.0,
+    "turbidity_ntu": 16.8,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 8.44,
+    "conductivity_us_cm": 451.1,
+    "turbidity_ntu": 15.1,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 6.25,
+    "conductivity_us_cm": 2024.0,
+    "turbidity_ntu": 33.3,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.61,
+    "conductivity_us_cm": 1794.8,
+    "turbidity_ntu": 43.3,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.77,
+    "conductivity_us_cm": 1438.4,
+    "turbidity_ntu": 30.9,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 8.09,
+    "conductivity_us_cm": 685.8,
+    "turbidity_ntu": 44.7,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.32,
+    "conductivity_us_cm": 709.2,
+    "turbidity_ntu": 66.2,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.63,
+    "conductivity_us_cm": 295.5,
+    "turbidity_ntu": 20.0,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 6.9,
+    "conductivity_us_cm": 1366.6,
+    "turbidity_ntu": 98.2,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.67,
+    "conductivity_us_cm": 763.2,
+    "turbidity_ntu": 15.2,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.13,
+    "conductivity_us_cm": 998.7,
+    "turbidity_ntu": 39.6,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.63,
+    "conductivity_us_cm": 766.7,
+    "turbidity_ntu": 12.9,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.16,
+    "conductivity_us_cm": 633.1,
+    "turbidity_ntu": 81.9,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 6.86,
+    "conductivity_us_cm": 1305.5,
+    "turbidity_ntu": 68.4,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.55,
+    "conductivity_us_cm": 1989.3,
+    "turbidity_ntu": 54.3,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 6.08,
+    "conductivity_us_cm": 1552.8,
+    "turbidity_ntu": 18.3,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.75,
+    "conductivity_us_cm": 842.7,
+    "turbidity_ntu": 33.1,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 8.95,
+    "conductivity_us_cm": 1109.0,
+    "turbidity_ntu": 82.8,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.37,
+    "conductivity_us_cm": 455.5,
+    "turbidity_ntu": 15.6,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.8,
+    "conductivity_us_cm": 1041.7,
+    "turbidity_ntu": 66.1,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.25,
+    "conductivity_us_cm": 551.6,
+    "turbidity_ntu": 21.5,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.77,
+    "conductivity_us_cm": 734.8,
+    "turbidity_ntu": 15.7,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 6.92,
+    "conductivity_us_cm": 811.1,
+    "turbidity_ntu": 78.9,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 6.63,
+    "conductivity_us_cm": 978.9,
+    "turbidity_ntu": 15.7,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 6.93,
+    "conductivity_us_cm": 888.9,
+    "turbidity_ntu": 19.0,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.77,
+    "conductivity_us_cm": 583.0,
+    "turbidity_ntu": 27.8,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 8.24,
+    "conductivity_us_cm": 443.7,
+    "turbidity_ntu": 19.0,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.11,
+    "conductivity_us_cm": 502.0,
+    "turbidity_ntu": 24.0,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.34,
+    "conductivity_us_cm": 333.1,
+    "turbidity_ntu": 18.7,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 8.1,
+    "conductivity_us_cm": 358.7,
+    "turbidity_ntu": 25.5,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.87,
+    "conductivity_us_cm": 455.6,
+    "turbidity_ntu": 31.6,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 6.32,
+    "conductivity_us_cm": 975.9,
+    "turbidity_ntu": 43.4,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.79,
+    "conductivity_us_cm": 838.2,
+    "turbidity_ntu": 33.8,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.41,
+    "conductivity_us_cm": 389.2,
+    "turbidity_ntu": 14.2,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.86,
+    "conductivity_us_cm": 639.2,
+    "turbidity_ntu": 17.9,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.56,
+    "conductivity_us_cm": 397.2,
+    "turbidity_ntu": 18.6,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.12,
+    "conductivity_us_cm": 2030.4,
+    "turbidity_ntu": 106.0,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 6.83,
+    "conductivity_us_cm": 610.8,
+    "turbidity_ntu": 63.1,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 8.0,
+    "conductivity_us_cm": 351.2,
+    "turbidity_ntu": 28.0,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 6.57,
+    "conductivity_us_cm": 1268.3,
+    "turbidity_ntu": 34.1,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.94,
+    "conductivity_us_cm": 547.7,
+    "turbidity_ntu": 13.3,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 8.11,
+    "conductivity_us_cm": 1413.7,
+    "turbidity_ntu": 43.0,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 8.35,
+    "conductivity_us_cm": 818.3,
+    "turbidity_ntu": 14.9,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 6.64,
+    "conductivity_us_cm": 884.3,
+    "turbidity_ntu": 22.3,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 8.56,
+    "conductivity_us_cm": 360.0,
+    "turbidity_ntu": 32.7,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.61,
+    "conductivity_us_cm": 646.4,
+    "turbidity_ntu": 28.2,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.08,
+    "conductivity_us_cm": 622.7,
+    "turbidity_ntu": 13.1,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.21,
+    "conductivity_us_cm": 458.8,
+    "turbidity_ntu": 16.7,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.92,
+    "conductivity_us_cm": 538.3,
+    "turbidity_ntu": 30.0,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.48,
+    "conductivity_us_cm": 502.0,
+    "turbidity_ntu": 25.9,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.87,
+    "conductivity_us_cm": 745.8,
+    "turbidity_ntu": 35.1,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.83,
+    "conductivity_us_cm": 466.1,
+    "turbidity_ntu": 16.4,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 8.29,
+    "conductivity_us_cm": 830.0,
+    "turbidity_ntu": 65.3,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.84,
+    "conductivity_us_cm": 286.8,
+    "turbidity_ntu": 29.0,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 8.1,
+    "conductivity_us_cm": 446.5,
+    "turbidity_ntu": 17.9,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.61,
+    "conductivity_us_cm": 801.5,
+    "turbidity_ntu": 14.6,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.38,
+    "conductivity_us_cm": 1176.3,
+    "turbidity_ntu": 29.2,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.13,
+    "conductivity_us_cm": 843.0,
+    "turbidity_ntu": 36.3,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 6.96,
+    "conductivity_us_cm": 679.3,
+    "turbidity_ntu": 81.9,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 8.03,
+    "conductivity_us_cm": 301.2,
+    "turbidity_ntu": 28.4,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.97,
+    "conductivity_us_cm": 644.4,
+    "turbidity_ntu": 16.3,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.99,
+    "conductivity_us_cm": 505.0,
+    "turbidity_ntu": 42.4,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 8.46,
+    "conductivity_us_cm": 1207.6,
+    "turbidity_ntu": 43.6,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 8.0,
+    "conductivity_us_cm": 459.3,
+    "turbidity_ntu": 16.4,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.29,
+    "conductivity_us_cm": 1585.2,
+    "turbidity_ntu": 64.3,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.87,
+    "conductivity_us_cm": 978.5,
+    "turbidity_ntu": 181.5,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.9,
+    "conductivity_us_cm": 360.6,
+    "turbidity_ntu": 13.2,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 6.68,
+    "conductivity_us_cm": 2141.4,
+    "turbidity_ntu": 47.0,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.55,
+    "conductivity_us_cm": 478.6,
+    "turbidity_ntu": 23.6,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 6.99,
+    "conductivity_us_cm": 2201.1,
+    "turbidity_ntu": 22.3,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.57,
+    "conductivity_us_cm": 595.5,
+    "turbidity_ntu": 28.8,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.9,
+    "conductivity_us_cm": 1129.5,
+    "turbidity_ntu": 61.3,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 6.15,
+    "conductivity_us_cm": 1585.2,
+    "turbidity_ntu": 34.3,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 6.42,
+    "conductivity_us_cm": 962.8,
+    "turbidity_ntu": 74.5,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 8.07,
+    "conductivity_us_cm": 501.9,
+    "turbidity_ntu": 35.3,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 8.63,
+    "conductivity_us_cm": 747.5,
+    "turbidity_ntu": 36.4,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.94,
+    "conductivity_us_cm": 720.7,
+    "turbidity_ntu": 22.5,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.22,
+    "conductivity_us_cm": 533.5,
+    "turbidity_ntu": 31.6,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 6.97,
+    "conductivity_us_cm": 1088.5,
+    "turbidity_ntu": 31.8,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.3,
+    "conductivity_us_cm": 339.7,
+    "turbidity_ntu": 22.6,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 6.29,
+    "conductivity_us_cm": 474.5,
+    "turbidity_ntu": 39.0,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.22,
+    "conductivity_us_cm": 625.4,
+    "turbidity_ntu": 40.0,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.24,
+    "conductivity_us_cm": 795.4,
+    "turbidity_ntu": 30.5,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.72,
+    "conductivity_us_cm": 537.3,
+    "turbidity_ntu": 24.2,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.86,
+    "conductivity_us_cm": 200.8,
+    "turbidity_ntu": 20.8,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.74,
+    "conductivity_us_cm": 813.9,
+    "turbidity_ntu": 26.7,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 8.08,
+    "conductivity_us_cm": 589.5,
+    "turbidity_ntu": 17.8,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 5.85,
+    "conductivity_us_cm": 1900.9,
+    "turbidity_ntu": 49.4,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 6.94,
+    "conductivity_us_cm": 696.8,
+    "turbidity_ntu": 21.6,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 8.16,
+    "conductivity_us_cm": 417.3,
+    "turbidity_ntu": 28.6,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 5.75,
+    "conductivity_us_cm": 531.4,
+    "turbidity_ntu": 28.1,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.68,
+    "conductivity_us_cm": 550.3,
+    "turbidity_ntu": 19.5,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.47,
+    "conductivity_us_cm": 326.9,
+    "turbidity_ntu": 30.7,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 8.71,
+    "conductivity_us_cm": 1240.3,
+    "turbidity_ntu": 16.1,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 9.46,
+    "conductivity_us_cm": 2732.5,
+    "turbidity_ntu": 43.9,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 6.53,
+    "conductivity_us_cm": 732.5,
+    "turbidity_ntu": 67.5,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.21,
+    "conductivity_us_cm": 636.5,
+    "turbidity_ntu": 35.8,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.89,
+    "conductivity_us_cm": 504.9,
+    "turbidity_ntu": 25.0,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.39,
+    "conductivity_us_cm": 339.3,
+    "turbidity_ntu": 18.7,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 8.1,
+    "conductivity_us_cm": 449.7,
+    "turbidity_ntu": 24.4,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.26,
+    "conductivity_us_cm": 347.8,
+    "turbidity_ntu": 33.0,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 8.1,
+    "conductivity_us_cm": 1553.2,
+    "turbidity_ntu": 30.1,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.75,
+    "conductivity_us_cm": 484.3,
+    "turbidity_ntu": 31.8,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 8.06,
+    "conductivity_us_cm": 490.0,
+    "turbidity_ntu": 34.9,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 6.55,
+    "conductivity_us_cm": 1309.4,
+    "turbidity_ntu": 32.1,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.6,
+    "conductivity_us_cm": 514.6,
+    "turbidity_ntu": 16.9,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 5.56,
+    "conductivity_us_cm": 908.3,
+    "turbidity_ntu": 61.2,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 8.33,
+    "conductivity_us_cm": 340.5,
+    "turbidity_ntu": 18.8,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 6.9,
+    "conductivity_us_cm": 542.9,
+    "turbidity_ntu": 14.7,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.19,
+    "conductivity_us_cm": 1235.0,
+    "turbidity_ntu": 53.6,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.67,
+    "conductivity_us_cm": 341.1,
+    "turbidity_ntu": 39.6,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.63,
+    "conductivity_us_cm": 453.8,
+    "turbidity_ntu": 13.1,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 9.15,
+    "conductivity_us_cm": 296.8,
+    "turbidity_ntu": 20.9,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 8.66,
+    "conductivity_us_cm": 705.8,
+    "turbidity_ntu": 17.7,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.43,
+    "conductivity_us_cm": 349.2,
+    "turbidity_ntu": 46.1,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.6,
+    "conductivity_us_cm": 425.7,
+    "turbidity_ntu": 35.4,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.66,
+    "conductivity_us_cm": 569.8,
+    "turbidity_ntu": 25.0,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 7.43,
+    "conductivity_us_cm": 1364.7,
+    "turbidity_ntu": 45.7,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.41,
+    "conductivity_us_cm": 779.2,
+    "turbidity_ntu": 14.5,
+    "lab_contaminated": 0
+  },
+  {
+    "ph": 6.34,
+    "conductivity_us_cm": 666.0,
+    "turbidity_ntu": 72.2,
+    "lab_contaminated": 1
+  },
+  {
+    "ph": 7.98,
+    "conductivity_us_cm": 410.6,
+    "turbidity_ntu": 23.2,
+    "lab_contaminated": 0
+  }
+]

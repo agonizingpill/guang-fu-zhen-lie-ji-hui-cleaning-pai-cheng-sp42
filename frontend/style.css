@@ -6,3 +6,5 @@ input,select,textarea,.surface,.twocol>*,.mission-layout>*,.workdetails>*{min-wi
 @media(min-width:1101px){.expansion-layout{grid-template-columns:420px minmax(0,1fr)}}
 
 .topnav{display:flex;flex-wrap:wrap}.topnav a{flex:1 1 10%;min-width:125px}.checkline{display:flex;align-items:center;gap:10px}.checkline input{width:auto}textarea{min-height:76px;width:100%;padding:10px;border:1px solid var(--line);font:inherit;background:#fff}.expansion-layout article.surface{margin-bottom:14px}@media(max-width:600px){.topnav a{min-width:30%;font-size:12px}}
+
+.quality-card{margin-bottom:16px}.quality-card .reading{font-size:28px;margin:6px 0}.quality-card .cols{gap:12px}.quality-card details.evidence{margin-top:4px}.quality-card form,.quality-card button{margin-top:12px}.quality-card form .inline-form{grid-template-columns:repeat(3,1fr)}.quality-card .rule{margin:12px 0 0}.quality-card textarea{min-height:64px}.quality-card form label{margin-bottom:10px}@media(max-width:600px){.quality-card form .inline-form{grid-template-columns:1fr}}

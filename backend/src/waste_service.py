@@ -1,8 +1,10 @@
+from datetime import datetime
 from sqlalchemy import select
 from fastapi import HTTPException
 from .models import WashMission
 from .operations_models import WastewaterRecord
 from .field_service import require,audit
+from . import quality_service
 
 def record(db,b,u):
     m=require(db,WashMission,b.mission_id,True)
@@ -22,7 +24,14 @@ def handover(db,key,b,u):
     d=require(db,WastewaterRecord,key,True)
     if d.state!='verified':raise HTTPException(409,'须先主管核验，交接签收不得重复')
     if len(b.received_by.strip())<2 or len(b.receipt.strip())<5:raise HTTPException(409,'签收人及接收凭证不能为空')
-    d.received_by=b.received_by.strip();d.receipt=b.receipt.strip();d.state='handed_over';audit(db,u,f'废水去向交接{key}');db.commit();return d
+    # Water quality and wastewater handover are serialized: correction and
+    # handover both lock the sample row, so the first accepted wins.
+    sample=quality_service.handover_gate(db,d)
+    decision,reason=quality_service.release_status(sample)
+    d.received_by=b.received_by.strip();d.receipt=b.receipt.strip();d.state='handed_over'
+    sample.handed_over_at=datetime.utcnow()
+    sample.release_snapshot=quality_service.frozen_release(sample,decision,reason)
+    audit(db,u,f'废水去向交接{key}，冻结水质第{sample.version}版及放行依据（{reason}）');db.commit();return d
 
 
 def revise(db,key,b,u):
